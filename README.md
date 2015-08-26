@@ -2,7 +2,7 @@
 
 Plans for a lasercut enclosure for the Axoloti board.
 
-The plans were are available as an Adobe Illustrator 8 (.ai) and   EPS, as these are the file formats we use for laser cutting at the local fablab.
+The plans were are available as an Adobe Illustrator 8 (.ai) and   EPS, as these are the file formats we use for laser cutting at the local fablab. Red lines are used for cutting, black is used for engraving.
 
 The front plate should be made of material with a thickness of 2mm, the rest of the case should be made of material with a thickness of 3mm.
 
